@@ -1,1 +1,1 @@
-# proyecto_red_neuronal
+# proyecto_red_neuronal_java
