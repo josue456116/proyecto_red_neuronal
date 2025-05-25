@@ -1,0 +1,14 @@
+@relation recomendacion_academica
+
+@attribute matematica numeric
+@attribute lenguaje numeric
+@attribute interes {ciencia,arte,deporte}
+@attribute carrera {ingenieria,letras,educacion_fisica}
+
+@data
+85,90,ciencia,ingenieria
+78,80,arte,letras
+70,75,deporte,educacion_fisica
+95,85,ciencia,ingenieria
+60,70,arte,letras
+65,80,deporte,educacion_fisica

@@ -1,0 +1,4 @@
+recomendador\WekaModel.class
+com\mycompany\recomendacion\resources\JakartaEE8Resource.class
+recomendador\RecomendadorServlet.class
+com\mycompany\recomendacion\JakartaRestConfiguration.class

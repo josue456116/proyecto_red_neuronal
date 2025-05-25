@@ -1,0 +1,12 @@
+@relation notas
+
+@attribute nota1 numeric
+@attribute nota2 numeric
+@attribute nota3 numeric
+@attribute curso {Matematicas,Fisica,Quimica}
+
+@data
+7,8,9,Matematicas
+5,4,6,Fisica
+8,7,8,Matematicas
+6,5,4,Quimica
